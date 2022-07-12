@@ -10,7 +10,7 @@ public class firfox {
 		System.setProperty("webdriver.gecko.driver", "D:\\giko\\geckodriver.exe");
 		WebDriver driver=new FirefoxDriver();
 		driver.get("https://kite.zerodha.com/");
-
+       System.out.println("hii webpage");
 	}
 
 }
