@@ -16,6 +16,7 @@ public class copypaste {
          driver.findElement(By.xpath("(//input[@type='text'])[2]")).sendKeys("Mrunali");
         //Actions act=new Actions(driver);
        // act.sendKeys("Mrunali");
+         System.out.println("gsgg");
 	}
 
 }
